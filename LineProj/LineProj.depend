@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654021626 source:c:\users\mahin\desktop\cg_lab\lineproj\main.c
+	<windows.h>
+	<GL/glut.h>
+
